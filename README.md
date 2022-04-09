@@ -1,4 +1,4 @@
-Learning React from Basic to Advanced with a few applications. App no. 2: Github finder app.
+A React app to search GitHub profiles and see profile details. This project is part of the React Front To Back udemy course by Brad Traversy
 
 For styling I used Tailwind and daaisy UI styled components
 
