@@ -65,6 +65,7 @@ export const GithubProvider = ({ children }) => {
   const getUserRepos = async (login) => {
     setLoading();
 
+    // get the latest 10 repos not all
     const params = new URLSearchParams({
       sort: 'created',
       per_page: 10,
